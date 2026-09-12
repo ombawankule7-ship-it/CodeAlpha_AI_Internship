@@ -1,0 +1,42 @@
+[
+    {
+        "question": "What are the college timings?",
+        "answer": "The college timings are from 9 AM to 4 PM."
+    },
+    {
+        "question": "What courses are available?",
+        "answer": "The college offers various undergraduate and postgraduate courses."
+    },
+    {
+        "question": "How can I contact the college?",
+        "answer": "You can contact the college through its official website or administration office."
+    },
+    {
+        "question": "What documents are required for admission?",
+        "answer": "Academic certificates, identity proof, photographs and other required documents are generally needed."
+    },
+    {
+        "question": "What is the admission process?",
+        "answer": "The admission process depends on the course and applicable admission rules."
+    },
+    {
+        "question": "Is computer science available?",
+        "answer": "Yes, computer science and related programs are available."
+    },
+    {
+        "question": "Is artificial intelligence available?",
+        "answer": "Yes, Artificial Intelligence and Machine Learning are available as areas of study."
+    },
+    {
+        "question": "What is the fee structure?",
+        "answer": "The fee structure depends on the course and academic year."
+    },
+    {
+        "question": "Is there a library?",
+        "answer": "Yes, students can use the college library."
+    },
+    {
+        "question": "Are there practical labs?",
+        "answer": "Yes, practical laboratory facilities are available for students."
+    }
+]
